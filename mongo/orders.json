@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "63194e8d808eb656a2e3c0e7"
+  },
+  "order": [
+    {
+      "name": "Sushi2",
+      "price": 15,
+      "quantity": 3
+    },
+    {
+      "name": "Sushi5",
+      "price": 10,
+      "quantity": 2
+    }
+  ],
+  "name": "gw nih anang",
+  "table": 3,
+  "t_price": "70.0",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1662602893143"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1662602893143"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63194eb0808eb656a2e3c0ec"
+  },
+  "order": [
+    {
+      "name": "Sushi2",
+      "price": 15,
+      "quantity": 2
+    },
+    {
+      "name": "Sushi5",
+      "price": 10,
+      "quantity": 2
+    }
+  ],
+  "name": "Anang H",
+  "table": 3,
+  "t_price": "55.0",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1662602928150"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1662602928150"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63195791808eb656a2e3c0f7"
+  },
+  "order": [
+    {
+      "name": "Sushi4",
+      "price": 40,
+      "quantity": 2
+    },
+    {
+      "name": "Sushi1",
+      "price": 10,
+      "quantity": 3
+    }
+  ],
+  "name": "Anang H Test",
+  "table": 9,
+  "t_price": "115.0",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1662605201538"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1662605201538"
+    }
+  },
+  "__v": 0
+}]

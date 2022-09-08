@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "631816103d28429739f53270"
+  },
+  "nomor": 1,
+  "name": "Table1",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53271"
+  },
+  "nomor": 2,
+  "name": "Table2",
+  "is_booking": "false"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53272"
+  },
+  "nomor": 3,
+  "name": "Table3",
+  "is_booking": "false"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53273"
+  },
+  "nomor": 4,
+  "name": "Table4",
+  "is_booking": "false"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53274"
+  },
+  "nomor": 5,
+  "name": "Table5",
+  "is_booking": "false"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53275"
+  },
+  "nomor": 6,
+  "name": "Table6",
+  "is_booking": "false"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53276"
+  },
+  "nomor": 7,
+  "name": "Table7",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53277"
+  },
+  "nomor": 8,
+  "name": "Table8",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53278"
+  },
+  "nomor": 9,
+  "name": "Table9",
+  "is_booking": "false"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53279"
+  },
+  "nomor": 10,
+  "name": "Table10",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f5327a"
+  },
+  "nomor": 11,
+  "name": "Table11",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f5327b"
+  },
+  "nomor": 12,
+  "name": "Table12",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f5327c"
+  },
+  "nomor": 13,
+  "name": "Table13",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f5327d"
+  },
+  "nomor": 14,
+  "name": "Table14",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f5327e"
+  },
+  "nomor": 15,
+  "name": "Table15",
+  "is_booking": "false"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f5327f"
+  },
+  "nomor": 16,
+  "name": "Table16",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53280"
+  },
+  "nomor": 17,
+  "name": "Table17",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53281"
+  },
+  "nomor": 18,
+  "name": "Table18",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53282"
+  },
+  "nomor": 19,
+  "name": "Table19",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53283"
+  },
+  "nomor": 20,
+  "name": "Table20",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53284"
+  },
+  "nomor": 21,
+  "name": "Table21",
+  "is_booking": "true"
+},{
+  "_id": {
+    "$oid": "631816103d28429739f53285"
+  },
+  "nomor": 22,
+  "name": "Table22",
+  "is_booking": "true"
+}]
